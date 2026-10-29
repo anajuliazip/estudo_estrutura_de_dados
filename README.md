@@ -12,7 +12,6 @@
 ## 1. Estrutura do Projeto e Instruções de Execução
 
 ```text
-atividade_ed/
 ├── estruturas/
 │   ├── __init__.py
 │   ├── lista_sequencial.py
