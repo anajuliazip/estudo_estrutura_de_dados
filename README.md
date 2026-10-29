@@ -4,6 +4,7 @@
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 - **Disciplina:** Estrutura de Dados
 - **Professor:** Niltemberg Carvalho
+- **Aluna:** Ana Júlia N. da Cruz
 - **Turno:** Noite
 
 ---
